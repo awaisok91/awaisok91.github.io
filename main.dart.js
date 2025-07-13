@@ -42815,7 +42815,7 @@ i.cI()
 j[11]=0.01
 i.uW(-0.06)
 j=t.p
-m=A.p5(B.he,A.c6(f,new A.qN(f,A.c6(f,A.p5(B.HM,A.oL(A.a([new A.hv(1,B.eQ,A.iQ(new A.eW(B.b0,A.My(A.Jt(A.a2P("HighCoder",35,1,15,A.aEg().$3$color$fontSize$fontWeight(B.j,35,B.av),f)),A.cY(8e5,0),A.cY(e,0)),f),f,f),f)],j),B.R,B.a7,B.T),f,i,!0),B.n,f,f,new A.cL(f,f,f,k,f,f,B.W),f,f,f,f,f,f,f),395*d.gkb(),247.5*d.gkv(),f),B.n,f,f,new A.cL(f,f,f,n,f,f,B.W),f,f,new A.bd(0,0,0,10*l),f,f,f,f),f,m,!0)
+m=A.p5(B.he,A.c6(f,new A.qN(f,A.c6(f,A.p5(B.HM,A.oL(A.a([new A.hv(1,B.eQ,A.iQ(new A.eW(B.b0,A.My(A.Jt(A.a2P("lets build something amazing together",35,1,15,A.aEg().$3$color$fontSize$fontWeight(B.j,35,B.av),f)),A.cY(8e5,0),A.cY(e,0)),f),f,f),f)],j),B.R,B.a7,B.T),f,i,!0),B.n,f,f,new A.cL(f,f,f,k,f,f,B.W),f,f,f,f,f,f,f),395*d.gkb(),247.5*d.gkv(),f),B.n,f,f,new A.cL(f,f,f,n,f,f,B.W),f,f,new A.bd(0,0,0,10*l),f,f,f,f),f,m,!0)
 n=new Float64Array(16)
 l=new A.bg(n)
 l.cI()
